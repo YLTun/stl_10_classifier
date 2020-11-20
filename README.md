@@ -13,4 +13,5 @@
 ## baseline.ipynb
 - Used for testing different models.
 - It uses the "processed_data.zip".
-- Takes advantage of validation data to check how the model is performing.  
+- Takes advantage of validation data to check how the model is performing.
+- Modify the "ROOT_DIR" variable to point to the "processed_data.zip".
